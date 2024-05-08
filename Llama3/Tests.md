@@ -3,12 +3,12 @@
 | 10 | F | F | F | F | F | F | F |
 | 19 | F | F | F | F | F | F | F |
 | 22 | F | F | F | F | F | F | P |
-| 45 | F | F | F | ? | F | F | P |
+| 45 | F | F | F | F | F | F | P |
 | 53 | F | F | F | F | F | F | P |
 | 66 | F | F | F | F | F | F | F |
 | 73 | F | F | F | F | F | F | P |
 | 75 | F | F | F | F | F | F | F |
-| 78 | F | F | F | ? | F | F | F |
+| 78 | F | F | F | F | F | F | F |
 | 79 | F | F | F | F | F | F | F |
 | 80 | F | F | F | F | F | F | F |
 | NJ | F | F | F | F | F | F | P |
