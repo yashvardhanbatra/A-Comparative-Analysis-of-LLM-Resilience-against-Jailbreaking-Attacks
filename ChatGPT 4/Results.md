@@ -5,5 +5,5 @@
 | Q3 | Fail | Pass | Fail | Fail | Fail | Fail | Fail | Fail | Fail | Fail | Fail | Fail |
 | Q4 | Fail | Pass | Fail | Fail | Fail | Fail | Fail | Fail | Pass | Fail | Fail | Fail |
 | Q5 | Fail | Pass | Fail | Fail | Fail | Fail | Fail | Fail | Fail | Fail | Fail | Fail |
-| Q6 | Fail | Pass | Pass | Fail | Fail | Fail | Fail | Fail | Fail | ???? | Fail | Fail |
-| Q7 | Pass | Pass | Fail | Fail | Fail | Fail | Fail | Pass | Pass | Pass | Fail | Pass |
+| Q6 | Fail | ???? | Pass | Fail | Fail | Fail | Fail | Fail | Fail | ???? | Fail | Fail |
+| Q7 | Pass | Pass | Fail | Pass | Pass | Pass | Pass | Pass | Pass | Pass | Fail | Pass |
