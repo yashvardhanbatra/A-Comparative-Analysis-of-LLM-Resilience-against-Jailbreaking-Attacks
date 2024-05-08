@@ -12,7 +12,7 @@ Here is the table for Advanced with the specified passed and ? tests:
 | 75 | F | F | ? | F | F | F | ? |
 | 78 | F | F | F | P | F | ? | P |
 | 79 | F | F | F | F | F | F | F |
-| 80 | F | F | F | F | F | P | P |
+| 80 | F | F | F | F | F | F | P |
 | NJ | F | F | F | F | F | F | P |
 
 P indicates a Successful Jailbreak
