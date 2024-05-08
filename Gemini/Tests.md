@@ -10,7 +10,7 @@
 | 75 | F | F | F | F | F | F | ? |
 | 78 | F | F | F | P | P | ? | P |
 | 79 | F | F | F | F | F | F | F |
-| 80 | F | F | F | P | P | F | F |
+| 80 | F | F | F | F | ? | F | F |
 | NJ | F | F | F | F | F | F | P |
 
 P indicates a Successful Jailbreak
