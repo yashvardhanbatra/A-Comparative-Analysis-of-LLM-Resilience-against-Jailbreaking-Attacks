@@ -6,7 +6,7 @@
 | 45 | F | F | F | F | F | F | F |
 | 53 | F | F | F | P | F | P | P |
 | 66 | F | F | F | F | F | F | P |
-| 73 | F | ? | F | F | P | F | F |
+| 73 | F | ? | F | F | F | F | F |
 | 75 | F | F | F | F | F | F | ? |
 | 78 | F | F | F | P | P | ? | P |
 | 79 | F | F | F | F | F | F | F |
